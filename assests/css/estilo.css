@@ -1,0 +1,36 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.descricao{
+    font-family:cursive
+}
+.cabecalho {
+    background-color: #B987EC;
+    
+}
+
+
+.h2,h3{
+    color: #B987EC;
+}
+
+
+.nossosProdutos img{
+    
+    width: 200px;
+    height: 200px;
+    align-items:inherit;
+   
+}
+  .nossosProdutos div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: cursive;
+
+  }  
+  .rodape{
+    background-color: #B987EC;
+  
+  
