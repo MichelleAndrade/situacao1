@@ -9,9 +9,13 @@ body{
     background-color: #B987EC;
     
 }
-
-
-.h2,h3{
+.figure_cabecalho{
+    align-content: center;
+}
+.rodape{
+    background-color: #B987EC;
+}
+h2,h3{
     color: #B987EC;
 }
 
@@ -28,9 +32,13 @@ body{
     justify-content: space-between;
     align-items: center;
     font-family: cursive;
+    list-style-type: none;
 
   }  
+  .nossosProdutos li{
+    list-style-type: none;
+  }
   .rodape{
     background-color: #B987EC;
-  
+  }
   
